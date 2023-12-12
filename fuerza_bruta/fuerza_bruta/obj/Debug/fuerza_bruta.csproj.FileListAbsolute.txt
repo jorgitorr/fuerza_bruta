@@ -1,0 +1,6 @@
+C:\Users\jorge\Documents\ejercicios_correccion\fuerza_bruta\fuerza_bruta\fuerza_bruta\bin\Debug\fuerza_bruta.exe
+C:\Users\jorge\Documents\ejercicios_correccion\fuerza_bruta\fuerza_bruta\fuerza_bruta\bin\Debug\fuerza_bruta.pdb
+C:\Users\jorge\Documents\ejercicios_correccion\fuerza_bruta\fuerza_bruta\fuerza_bruta\obj\Debug\fuerza_bruta.csproj.AssemblyReference.cache
+C:\Users\jorge\Documents\ejercicios_correccion\fuerza_bruta\fuerza_bruta\fuerza_bruta\obj\Debug\fuerza_bruta.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Documents\ejercicios_correccion\fuerza_bruta\fuerza_bruta\fuerza_bruta\obj\Debug\fuerza_bruta.exe
+C:\Users\jorge\Documents\ejercicios_correccion\fuerza_bruta\fuerza_bruta\fuerza_bruta\obj\Debug\fuerza_bruta.pdb
